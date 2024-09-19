@@ -38,7 +38,7 @@ https://raw.githubusercontent.com/nkityd09/cml_speech_to_text/main/catalog.yaml
 
 6. Once the AMP steps are completed, We can access the Gradio UI via the Applications page.
 
-## App In Action
+## App In Action  
 
 The CML Application serves a Gradio UI to upload Audio files and summarize the text transcribed from the Audio.
 
